@@ -23,6 +23,7 @@ My web development environment using Laravel on Ubuntu 14.04.2
 
 ### Composer
 > curl -sS https://getcomposer.org/installer | php
+>
 > mv composer.phar /usr/local/bin/composer
 
 ### Sublime Text
