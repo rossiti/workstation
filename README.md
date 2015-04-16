@@ -15,6 +15,7 @@ PHP5
 
 MySQL
 > sudo apt-get install mysql-server php5-mysql
+>
 > sudo mysql_secure_installation
 
 PHPMyAdmin
