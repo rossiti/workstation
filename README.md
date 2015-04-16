@@ -7,25 +7,25 @@ My web development environment using Laravel on Ubuntu 14.04.2
 
 ## LAMP Server
 
-Apache Server
+### Apache Server
 > sudo apt-get install apache2
 
-PHP5
+### PHP5
 > sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt
 
-MySQL
+### MySQL
 > sudo apt-get install mysql-server php5-mysql
 >
 > sudo mysql_secure_installation
 
-PHPMyAdmin
+### PHPMyAdmin
 > sudo apt-get install phpmyadmin
 
-Composer
+### Composer
 > curl -sS https://getcomposer.org/installer | php
 > mv composer.phar /usr/local/bin/composer
 
-Sublime Text
+### Sublime Text
 > sudo add-apt-repository ppa:webupd8team/sublime-text-2
 >
 > sudo apt-get update
@@ -46,4 +46,7 @@ import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a309809
 
 > Restart Sublime Text
 
-
+### My personal Sublime Text snippets
+* Emmet
+* Laravel Blade Highlighter
+* Git
