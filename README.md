@@ -60,8 +60,9 @@ import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a309809
 >Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item Preferences -> Settings - User in Sublime Text or by clicking cmd + , on a Mac.
 
 Example settings
-
+```
 {
   "theme": "Brogrammer.sublime-theme",
   "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme"
 }
+```
