@@ -26,6 +26,9 @@ My web development environment using Laravel on Ubuntu 14.04.2
 >
 > mv composer.phar /usr/local/bin/composer
 
+### NodeJS
+> sudo apt-get install --yes nodejs
+
 ### Sublime Text
 > sudo add-apt-repository ppa:webupd8team/sublime-text-2
 >
@@ -51,3 +54,14 @@ import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a309809
 * Emmet
 * Laravel Blade Highlighter
 * Git
+* Brogrammer
+
+> Setup
+>Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item Preferences -> Settings - User in Sublime Text or by clicking cmd + , on a Mac.
+
+Example settings
+
+{
+  "theme": "Brogrammer.sublime-theme",
+  "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme"
+}

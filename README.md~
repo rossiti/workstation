@@ -23,7 +23,11 @@ My web development environment using Laravel on Ubuntu 14.04.2
 
 ### Composer
 > curl -sS https://getcomposer.org/installer | php
+>
 > mv composer.phar /usr/local/bin/composer
+
+### NodeJS
+> sudo apt-get install --yes nodejs
 
 ### Sublime Text
 > sudo add-apt-repository ppa:webupd8team/sublime-text-2
