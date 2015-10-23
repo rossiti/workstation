@@ -28,6 +28,7 @@ My web development environment using Laravel on Ubuntu 14.04.2
 
 ### Apache and PHP Modules to activate
 > sudo php5enmod mcrypt
+>
 > sudo a2enmod rewrite
 
 ### NodeJS
