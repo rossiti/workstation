@@ -30,6 +30,8 @@ My web development environment using Laravel on Ubuntu 14.04.2
 > sudo php5enmod mcrypt
 >
 > sudo a2enmod rewrite
+>
+> sudo apt-get install php5-curl
 
 ### NodeJS
 > sudo apt-get install --yes nodejs
